@@ -30,5 +30,5 @@ ApplyXRFCorr.ipynb is a Jupyter notebook that takes these calibration models and
 4. Profit?
 
 * * *
-### IMPORTANT: IF YOU WANT TO ADD ADDITIONAL STANDARDS TO CALIBRATION SCHEME, EACH MUST BE ADDED TO THE NITONXL5_StandardCorrelationNEW.ipynb NOTEBOOK, FOLLOWING FORMATTING FOR EXISTING STANDARDS. 
+### IMPORTANT: IF YOU WANT TO ADD ADDITIONAL STANDARDS TO CALIBRATION SCHEME, EACH MUST BE ADDED TO THE NITONXL5_StandardCorrelationNEW.ipynb NOTEBOOK, FOLLOWING FORMATTING FOR EXISTING STANDARDS. Then, all known elemental abundances for the standard must be entered into the requisite .csv in the INPUT_CSV directory.
 * * *
